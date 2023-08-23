@@ -17,4 +17,5 @@ Below is a list of the files with a brief description of each:
 
 **5. [Example of a Radar Chart based on Qualitative data](https://github.com/yyshastri/Portfolio/blob/2e63b5e9dc9c8276b04c0f522e25f70347a44673/Radar_chart_project_manager_informal_roles_agile.JPG):** This radar chart from my PhD research is a quantiative visualisation of underlying qualitative data. It shows what percentage of project managers in the study performed a particular informal role (Mentor, Facilitator, Negotiator, Coordinator, Protector, and Process Adapter). 
 
-## Special Interest Projects
+## Hobby Projects
+**1. [Visualization of 150 years of Land Revenue data for Tirunelveli district,India ]():** This graph is based on statistical data from 1801-1947 CE of land revenue collected by the British administration for a single district (Tirunelveli) in Tamil Nadu state of India. While data for around 110 years was avaliable from a single source, the missing data for around 40 years had to be painstakingly collected from a multitude of revenue reports of the last two centuries. I have uploaded the [complete dataset] in spreadsheet format.
