@@ -1,4 +1,4 @@
-# Portfolio
+# Preamble
 This folder has exemplars of my data analysis skills including my publications and graphs/images based on my research. This folder also includes data from my hobby projects mostly around historical cartography and statistical data from British rule in India.
 
 The different elements of the folder are organized in the following order: the research outputs (peer-reviewed publications) and associated graphs/figures take priority while the hobby projects which include graphs/maps are slotted in after the published research outputs.
