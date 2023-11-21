@@ -1,7 +1,5 @@
 # Preamble
-This folder has exemplars of my writing and research skills including my publications and graphs/images based on my research. This folder also includes data from my hobby projects mostly around historical cartography and statistical data from British rule in India.
-
-The different elements of the folder are organized in the following order: the research outputs (peer-reviewed publications) and associated graphs/figures take priority while the hobby projects which include graphs/maps are slotted in after the published research outputs.
+This folder has exemplars of my writing and research skills including my publications and graphs/images based on my research. 
 
 Below is a list of the files with a brief description of each:
 
@@ -17,11 +15,3 @@ Below is a list of the files with a brief description of each:
 
 **5. [Example of a Radar Chart based on Qualitative data](https://github.com/yyshastri/Portfolio/blob/2e63b5e9dc9c8276b04c0f522e25f70347a44673/Radar_chart_project_manager_informal_roles_agile.JPG):** This radar chart from my PhD research is a quantiative visualisation of underlying qualitative data. It shows what percentage of project managers in the study performed a particular informal role (Mentor, Facilitator, Negotiator, Coordinator, Protector, and Process Adapter). 
 
-## Hobby Projects
-**1. [Visualization of 150 years of Land Revenue data for Tirunelveli district,India ](https://github.com/yyshastri/Portfolio/blob/9facbc09c7e22e6956867e7130ec12281068ed97/Land%20Revenue%20per%20acre-Tirunelveli%20district%201801-1947.png):** This graph is based on statistical data from 1801-1947 CE of land revenue collected by the British administration for a single district (Tirunelveli) in Tamil Nadu state of India. While data for around 110 years was  available from a single source, the missing data for around 40 years had to be painstakingly collected from a multitude of revenue reports of the last two centuries. I have uploaded the [complete dataset](https://github.com/yyshastri/Portfolio/blob/9facbc09c7e22e6956867e7130ec12281068ed97/British_Land_Revenue_Tirunelveli_district_data.xlsx) in spreadsheet format.
-
-**2. [Visualization of Net Income of farmers 1801-1931 CE for Tirunelveli district,India ](https://github.com/yyshastri/Portfolio/blob/9facbc09c7e22e6956867e7130ec12281068ed97/Net%20income%20of%20farmer%201801-1931.png):** This visualization is based on the same dataset as the previous visualization and depicts the farmer's income from an acre of land. The amounts have been adjusted for inflation based on index numbers given by Government of India publications and Fred Atkinsons index numbers.
-
-**3. [Visualization of Land Revenue as a percentage of yield per acre 1801-1947CE for Tirunelveli district,India ](https://github.com/yyshastri/Portfolio/blob/2d46cf1fb8ede787143fd7eb8ccd9ae4b9b43562/Ryotwari%20Land%20Revenue%20as%20percentage%20of%20average%20yield.png):** This graph presents another perspective on the land revenue data where the land revenue has been converted into equivalent grain stock. This illustrates the amount of grain that farmers had to sell to pay the land revenue for one acre of land.
-
-**4. [A Basemap of South India created using Inkscape](https://github.com/yyshastri/Portfolio/blob/0d5b9c5b2e52841f3145aae9f6d343c834f18dea/Map%20of%20South%20India%20v1.png):** This map is part of a larger project to provide a copyright free basemap with cities and towns from the Indian sub-continent which can be used for a variety of purposes including depicting historical battles, changes in places/regions over time etc. The map was traced over an archival map using Inkscape.
